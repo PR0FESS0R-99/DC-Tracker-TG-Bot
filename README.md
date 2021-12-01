@@ -12,7 +12,9 @@ Deploy To Railway
 </p>
 
 <p align="center">
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FPR0FESS0R-99%2FDC-Tracker-TG-Bot&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN&API_HASHDesc=Your+API+Hash+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&API_IDDesc=API_ID+Required+Your+APP+ID+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&referralCode=MoTech)
+
 </p>
 
 <p align="center">
@@ -29,9 +31,8 @@ Bot Feature
 
 * **Telegram DC Id Tracker**
 
-## Credits
 <p align="center">
-Bot Feature
+Credits
 </p>
 
 * **Thanks To [Pyrogram](https://docs.pyrogram.org/)**
