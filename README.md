@@ -1,9 +1,8 @@
 ## DC-Tracker-TG-Bot
 
-| --- |
-| <img src="https://img.shields.io/github/stars/PR0FESS0R-99/DC-Tracker-TG-Bot?style=social" /> | 
-| <img src="https://img.shields.io/github/forks/PR0FESS0R-99/DC-Tracker-TG-Bot?style=social" /> |
-| --- |
+| --- | --- |
+| <img src="https://img.shields.io/github/stars/PR0FESS0R-99/DC-Tracker-TG-Bot?style=social" /> | <img src="https://img.shields.io/github/forks/PR0FESS0R-99/DC-Tracker-TG-Bot?style=social" /> |
+| --- | --- |
 
 <p align="center">
 Deploy To Railway
