@@ -1,8 +1,11 @@
 ## DC-Tracker-TG-Bot
 
+**Telegram DC Id Tracker**
+
 | Star 🌟 | Fork 🍴 | 
 | --- | --- |
 | <img src="https://img.shields.io/github/stars/PR0FESS0R-99/DC-Tracker-TG-Bot?style=social" /> | <img src="https://img.shields.io/github/forks/PR0FESS0R-99/DC-Tracker-TG-Bot?style=social" /> |
+
 
 
 ---- 
@@ -16,21 +19,12 @@
 
 | Config Vars |  |
 | ---------- | ---------- |
-| `API_ID` | [Click Here]](https://youtu.be/5eEsvLAKVc0) |
+| `API_ID` | [Click Here](https://youtu.be/5eEsvLAKVc0) |
 | `API_HASH` | [Click Here ](https://youtu.be/5eEsvLAKVc0) |
 | `BOT_TOKEN` | [Click Here](https://youtu.be/cB4UduCcNWs) |
 
-<p align="center">
-Bot Feature
-</p>
-
-* **Telegram DC Id Tracker**
-
-<p align="center">
-Credits
-</p>
 
 * **Thanks To [Pyrogram](https://docs.pyrogram.org/)**
-* **[Thanks To Me ](https://github.com/PR0FESS0R-99)** Developer
-* **Thanks To [ID Bot V1](https://github.com/PR0FESS0R-99/ID-Bot-V1)
+* **Thanks To [Me](https://github.com/PR0FESS0R-99)** Developer
+* **Thanks To [ID Bot V1](https://github.com/PR0FESS0R-99)
 
